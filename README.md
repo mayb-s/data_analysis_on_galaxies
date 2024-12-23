@@ -20,7 +20,7 @@ along with an examination of biases in the data due to technological limitations
 
 The project includes:
 - **K-means clustering** to group galaxies based on their properties.
-- **Linear regression** to explore the relationship between redshift and radial velocity, validating the Doppler effect and Hubble’s Law.
+- **Linear regression** to explore the relationship between redshift and radial velocity, validating Hubble’s Law and the expanding universe.
 
 #### Prerequisites
 
