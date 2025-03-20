@@ -8,6 +8,9 @@ and includes galaxy properties such as Right Ascension (RA), Declination (DEC), 
 The analysis aims to validate Hubble's Law and explore the relationship between redshift and radial velocity, 
 along with addressing limitations and biases in the data.
 
+The Machine Learning Report in PDF elaborates on the data processing and analysis, 
+drawing conclusions and exploring interpretations of the data.
+
 
 
 #### Overview
